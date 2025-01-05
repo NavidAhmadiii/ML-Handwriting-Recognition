@@ -41,7 +41,7 @@ The following machine learning algorithms are implemented in this project:
 
 ## Dataset
 The project uses the **patern_dataset**, a for handwritten digit recognition. The dataset includes:
-- **The handwriting of 20 people has written 10 numbers each.
+- **The handwriting of 20 people has written 10 numbers each.**
 
 Each image is a **have been resized to 70 x 70.** of a handwritten digit (0-9).
 
@@ -57,5 +57,7 @@ Follow these steps to run the project:
    
   ---
   
-   ## Contact
-   LinkedIn #https://www.linkedin.com/in/navid-ahmadii/
+## Contact
+If you have any questions or suggestions, feel free to reach out:
+
+- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/navid-ahmadii/)
